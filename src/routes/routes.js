@@ -1,3 +1,4 @@
+'use strict';
 import { Router } from 'express';
 import filesRoute from './files.route.js';
 

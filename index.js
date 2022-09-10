@@ -1,3 +1,4 @@
+'use strict';
 import express from 'express';
 import fileUpload from 'express-fileupload';
 import indexRouter from './src/routes/routes.js';
